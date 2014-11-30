@@ -1,6 +1,9 @@
 # emacs tempolary files
 *~
 
+# compiled executable file
+a.out
+
 # Compiled Object files
 *.slo
 *.lo
